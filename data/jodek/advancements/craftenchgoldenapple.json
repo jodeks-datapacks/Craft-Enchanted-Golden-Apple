@@ -1,0 +1,77 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:enchanted_golden_apple"
+        },
+        "title": "Craft Enchanted Golden Apple                                                                                                                  ",
+        "description": [
+          "",
+          {
+              "text": "Enchanted golden apples are craftable!\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "yellow"
+          },
+          {
+              "text": "/trigger",
+              "color": "yellow"
+          },
+          {
+              "text": " help.craftenchgoldenapple\n",
+              "color": "yellow"
+          },
+          {
+              "text": "for help\n",
+              "color": "white"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Datapack version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "v.2.1.0",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "Game version: ",
+              "color": "dark_green"
+          },
+          {
+              "text": "1.20.5-6",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "\n",
+              "color": "green"
+          },
+          {
+              "text": "modrinth.com/datapack/craft-enchanted-golden-apple",
+              "color": "dark_purple"
+          }
+      ],
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "jodek:crafting",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+  }
+  
