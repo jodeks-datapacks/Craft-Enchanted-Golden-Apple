@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": "Crafting & Mining datapacks",
+    "description": [
+      {
+        "text": "Expanding or adjusting crafting recipes and mining",
+        "color": "white"
+      }
+    ],
+    "frame": "goal",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "jodek:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
