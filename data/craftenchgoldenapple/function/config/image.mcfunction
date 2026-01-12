@@ -16,7 +16,7 @@ function craftenchgoldenapple:image/set_image_data {\
     "Craft Enchanted Golden Apples",\
     {text: "Makes enchanted golden apples craftable", color: "#aaaaaa"},\
     "",\
-    [{text: "Datapack version: ", color: "#00a800"}, {text: "v1.0.1", color: "#54fc54"}],\
+    [{text: "Datapack version: ", color: "#00a800"}, {text: "v1.0.2", color: "#54fc54"}],\
     [{text: "Game version: ", color: "#00a800"}, {text: "1.21.6+", color: "#54fc54"}],\
     "",\
     [{text: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
