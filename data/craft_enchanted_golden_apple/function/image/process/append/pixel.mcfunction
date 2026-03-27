@@ -1,0 +1,1 @@
+function craft_enchanted_golden_apple:image/process/build_pixel with storage craft_enchanted_golden_apple:image data.current

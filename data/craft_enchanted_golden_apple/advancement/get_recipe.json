@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "craft_enchanted_golden_apple:enchanted_golden_apple"
+    ]
+  }
+}

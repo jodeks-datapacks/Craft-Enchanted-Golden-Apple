@@ -1,6 +1,6 @@
 {
   "values": [
-    "craftenchgoldenapple:app/setup",
-    "craftenchgoldenapple:app/load_message"
+    "craft_enchanted_golden_apple:app/setup",
+    "craft_enchanted_golden_apple:app/load_message"
   ]
 }

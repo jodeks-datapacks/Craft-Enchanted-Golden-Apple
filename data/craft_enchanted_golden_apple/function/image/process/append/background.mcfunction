@@ -1,0 +1,2 @@
+data modify storage craft_enchanted_golden_apple:image data.current.pixel_color set from storage craft_enchanted_golden_apple:image data.background_color
+function craft_enchanted_golden_apple:image/process/build_pixel with storage craft_enchanted_golden_apple:image data.current

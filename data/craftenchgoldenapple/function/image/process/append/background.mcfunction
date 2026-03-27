@@ -1,2 +1,0 @@
-data modify storage craftenchgoldenapple:image current.pixel_color set from storage craftenchgoldenapple:image background_color
-function craftenchgoldenapple:image/process/build_pixel with storage craftenchgoldenapple:image current
