@@ -1,23 +1,20 @@
-# Craft Enchanted Golden Apple
-
-<div style="display: flex; gap: 20px;">
-<a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
+<div align="center">
   
-<a href="https://github.com/sponsors/Jodekq" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-Jodek-green?style=for-the-badge&logo=github&logoWidth=20" alt="Sponsor @Jodek" />
-</a>
+![Enchanted Golden Apple datapack title image minecraft](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/titles/craft_enchanted_golden_apple.png)
+
 </div>
 
-<picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/tip.svg">
-  <img alt="Tip" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/tip.svg">
-</picture>
- 
-Questions or issues? -> [discord server](https://discord.gg/z2n3qTzQY6) | _or create an issue on github_
+<div align="center">
 
-### Makes enchanted golden apples craftable
+[![jodeks datapacks discord](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Discord.png)](https://discord.gg/z2n3qTzQY6)&nbsp;&nbsp;
+[![jodeks datapacks matrix](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Matrix.png)](https://matrix.to/#/#jodeks_datapacks:matrix.org)&nbsp;&nbsp;
+[![craft enchanted golden apple minecraft datapack github issues](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Issues.png)](https://github.com/jodeks-datapacks/craft-enchanted-golden-apple/issues)&nbsp;&nbsp;
+[![jodeks datapacks kofi](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/Kofi.png)](https://ko-fi.com/jodek)&nbsp;&nbsp;
+[![github sponsor jodek](https://cdn.jsdelivr.net/gh/jodeks-datapacks/Assets@main/badges/GH_Sponsor.png)](https://github.com/sponsors/Jodekq)
 
-![enchanted golden apple crafting recipe](https://cdn.modrinth.com/data/cached_images/a3a87e1755c90ea615ac9e2394d38e807afedcfe.png)
+</div>
+
+![Enchanted Golden Apple crafting recipe in Minecraft](https://cdn.modrinth.com/data/cached_images/a3a87e1755c90ea615ac9e2394d38e807afedcfe.png)
 
 ## Guides
 
