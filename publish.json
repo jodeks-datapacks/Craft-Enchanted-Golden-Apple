@@ -1,7 +1,7 @@
 {
-  "project_id": "xjqgkruM",
-  "curseforge_project_id": "1427470",
-  "curseforge_mod_project_id": "1427476",
+  "modrinth_id": "xjqgkruM",
+  "curseforge_id": "1427470",
+  "curseforge_mod_id": "1427476",
   "curseforge_slug": "craft-enchanted-golden-apple",
   "loaders": ["datapack"],
   "game_versions": [
