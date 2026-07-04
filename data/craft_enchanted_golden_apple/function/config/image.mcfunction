@@ -16,7 +16,7 @@ function craft_enchanted_golden_apple:image/set_image_data {\
     {text: "Craft Enchanted Golden Apples"},\
     {translate: "craft_enchanted_golden_apple.description", fallback: "Makes enchanted golden apples craftable"},\
     "",\
-    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.3", color: "#54fc54"}],\
+    [{translate: "jodek.datapack_version", fallback: "Datapack version: ", color: "#00a800"}, {text: "v1.0.4", color: "#54fc54"}],\
     "",\
     [{translate: "jodek.by", fallback: "By ", color: "#fcfcfc"}, {text: "Jodek", color: "#fcfc54"}],\
     {text: "modrinth.com/datapack/craft-enchanted-golden-apple", color: "#a800a8"},\
